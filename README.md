@@ -1,2 +1,2 @@
-# Presentaci-n-de-equipo
+# Presentacion-de-equipo
 Pagina con  nuestra pagina Web
